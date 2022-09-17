@@ -14,6 +14,6 @@ Projeto construido do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## ✉️ contato
+## ✉️ Contato
 
 Palomalima@gmail.com
