@@ -16,4 +16,4 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 ## ✉️ Contato
 
-Palomalima@gmail.com
+Palomalima272@gmail.com
